@@ -1,4 +1,5 @@
 # TicTacToe
+<img width="1282" alt="Screenshot 2023-09-11 at 12 47 45 pm" src="https://github.com/NematBhullar/TicTacToe/assets/91060343/7e3ebcaf-9da7-497b-b08e-495d72130664">
 
 1. About
 2. Getting Started
